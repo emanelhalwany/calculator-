@@ -1,0 +1,24 @@
+/* style of button */
+
+.button{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: #e8e1e8;
+    color:#888 ;
+    height: 4em;
+    font-weight: lighter;
+    font-size: 1.5em;
+    border: 1px solid #888;
+}
+
+.operator {
+    background-color: #fe9241;
+    color: white;
+    
+}
+
+
+
+
